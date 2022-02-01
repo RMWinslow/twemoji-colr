@@ -4,7 +4,7 @@ PERL       ?= perl
 PYTHON     ?= fontforge -script
 TTX        ?= ttx
 
-FONT_NAME  = Twemoji\ Mozilla
+FONT_NAME  = TwemojiMozillaTweaked
 
 BUILD_DIR  = build
 
